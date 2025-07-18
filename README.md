@@ -10,26 +10,31 @@
   <a href="https://www.leetcode.com/https://leetcode.com/u/aayu_zeke31/">LeetCode</a>-
   <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aayusoni/">GFG</a>-
   <a href="https://discord.gg/aayushi_68828">Discord</a>-
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aayusoni5896">HackerRank</a>
+
   </p>
     </br>
     </br>
   <div>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1YXZmejhlOTB5dG1jZzJnb3N2djB4b2FpbWkzMGV1ZjRseGpkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" alt="Profile Image" width="340" />
+
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnBzMGl2anJ4dDI2MmN1cTZ6dTgwamJqOTU1dHB0Z3FsenUxNDVhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Profile Image" width="340" />
 </div>
 
  💫 About Me
 
-- 🎓 I'm a Student and Web Developer
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning DSA.
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2024 Goals: Make project & strengthen DSA
+-  Final-year B.Tech student (Computer Science & IT) passionate about building impactful web and mobile applications.
+-  Skilled in Java, React.js, Node.js, REST APIs, and SQL, with hands-on project experience.
+-  Currently sharpening my Data Structures & Algorithms and exploring Open Source collaboration.
+-  2024 Goal: Contribute to real-world open-source projects and enhance backend engineering skills.
+-  Always open to meaningful tech collaborations and growth opportunities.
+
+
 </p>
 
 </br>
 </br>
+</br></br></br></br>
 <h2 align="center">💻 Tech Stack:</h2>
 </br>
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,tailwind,mysql,postman,java,firebase,git,bash" /> </p>
