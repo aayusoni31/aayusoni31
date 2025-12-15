@@ -43,6 +43,8 @@
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayusoni31&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=aayusoni31&theme=radical&cache_seconds=1800">
+
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayusoni31&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayusoni31&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayusoni31&theme=radical">
