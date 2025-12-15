@@ -26,7 +26,7 @@
 -  Final-year B.Tech student (Computer Science & IT) passionate about building impactful web and mobile applications.
 -  Skilled in Java, React.js, Node.js, REST APIs, and SQL, with hands-on project experience.
 -  Currently sharpening my Data Structures & Algorithms and exploring Open Source collaboration.
--  2024 Goal: Contribute to real-world open-source projects and enhance backend engineering skills.
+-  2025 Goal: Contribute to real-world open-source projects and enhance backend engineering skills.
 -  Always open to meaningful tech collaborations and growth opportunities.
 
 
