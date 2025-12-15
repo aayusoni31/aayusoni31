@@ -42,15 +42,34 @@
 </br>
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayusoni31&theme=radical">
+<!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayusoni31&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api?username=aayusoni31&theme=radical&cache_seconds=1800">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayusoni31&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayusoni31&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayusoni31&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayusoni31&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=aayusoni31&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayusoni31&theme=radical">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayusoni31&theme=radical"> -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=aayusoni31&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img height="170em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=aayusoni31&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Top Languages (Most Reliable) -->
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayusoni31&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
+
 
 </div><br>
 
