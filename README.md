@@ -5,9 +5,8 @@
 <p align="center">
   <a href="www.linkedin.com/in/aayushi-verma-518a17280">LinkedIn</a> - 
   <a href="https://x.com/Aayushi_soni_">Twitter</a> -
-  <a href="https://kaggle.com/https://www.kaggle.com/vermaaayushi">Kaggle</a>-
-  <a href="https://www.codechef.com/users/https://www.codechef.com/users/aayushi_00" >CodeChef</a>-
   <a href="https://www.leetcode.com/https://leetcode.com/u/aayu_zeke31/">LeetCode</a>-
+  <a href="https://www.codechef.com/users/https://www.codechef.com/users/aayushi_00" >CodeChef</a>-
   <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aayusoni/">GFG</a>-
   <a href="https://discord.gg/aayushi_68828">Discord</a>-
 
